@@ -1,0 +1,6 @@
+package com.example.inazumaelevenexpress.screens.auth
+
+import androidx.compose.runtime.Composable
+
+@Composable
+fun InitialScreen() {}
