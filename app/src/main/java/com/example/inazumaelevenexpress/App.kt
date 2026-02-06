@@ -1,9 +1,8 @@
+// App.kt
 package com.example.inazumaelevenexpress
 
-import androidx.compose.runtime.Composable
+import android.app.Application
+import dagger.hilt.android.HiltAndroidApp
 
-
-@Composable
-fun App() {
-    AppNavHost()
-}
+@HiltAndroidApp
+class InazumaElevenExpressApp : Application()

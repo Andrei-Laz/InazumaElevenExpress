@@ -14,8 +14,8 @@ import com.example.inazumaelevenexpress.scaffold.MainScaffold
 import com.example.inazumaelevenexpress.screens.home.MainMenuScreen
 import com.example.inazumaelevenexpress.screens.catalog.CatalogScreen
 import com.example.inazumaelevenexpress.screens.teams.TeamsScreen
-import com.example.inazumaelevenexpress.screens.pvp.PVPScreen
-import com.example.inazumaelevenexpress.screens.pve.PVEScreen
+import com.example.inazumaelevenexpress.screens.pvp.PvpScreen
+import com.example.inazumaelevenexpress.screens.pve.PveScreen
 
 @Composable
 fun MainNavGraph(
